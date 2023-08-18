@@ -1,2 +1,5 @@
 # Ter00m
-A nuker that is bad but works more like a message webhook
+Bad nuker
+# Why Choose Ter00m 
+I have no idea???
+# Now
